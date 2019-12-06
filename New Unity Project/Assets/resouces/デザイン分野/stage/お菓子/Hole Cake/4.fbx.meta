@@ -8,17 +8,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: blinn1
-    second: {fileID: 2100000, guid: ebbc65f9a85bcb64fa518a53462093f0, type: 2}
+    second: {fileID: 2100000, guid: 4013d97d2700e7e4eb3e64874f58ba0a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: lambert2
-    second: {fileID: 2100000, guid: a43c218c742138d4ea657f2f5428ab51, type: 2}
+    second: {fileID: 2100000, guid: e03262f2171b41f4d906af6120b1a3d0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: lambert4
-    second: {fileID: 2100000, guid: 65dd1da36318bc341b463f8e0647c493, type: 2}
+    second: {fileID: 2100000, guid: 86a62a7c20d83ca4b9a5e4949ebdd4a0, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

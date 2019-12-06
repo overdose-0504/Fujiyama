@@ -8,12 +8,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: glass
-    second: {fileID: 2100000, guid: 34eb54fe8eff82f4aa603a2ca74fbb83, type: 2}
+    second: {fileID: 2100000, guid: d872726568b2b18429249b8e5a6bf138, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: metal
-    second: {fileID: 2100000, guid: d6f2b953e7996b346a05bc6ac144a86d, type: 2}
+    second: {fileID: 2100000, guid: b93d0b294695a9941b730f23eb35899d, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

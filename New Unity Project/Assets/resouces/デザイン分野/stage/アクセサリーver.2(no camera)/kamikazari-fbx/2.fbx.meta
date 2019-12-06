@@ -8,22 +8,22 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: houseki
-    second: {fileID: 2100000, guid: d13ce82b64f4871489bf01b80dc97c58, type: 2}
+    second: {fileID: 2100000, guid: 044a42830a7f1724cb5c6b7e5a3cd0c3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: metal1
-    second: {fileID: 2100000, guid: 9354c1c763f25d14285b19a69f1bbe0f, type: 2}
+    second: {fileID: 2100000, guid: da4710fe569721a4ea8d485b8e39f6c6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: metal2
-    second: {fileID: 2100000, guid: d4c8c0252fa491340b4447678abb728e, type: 2}
+    second: {fileID: 2100000, guid: 81471b961645f6a43b3fd8d4760f2805, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: metal3
-    second: {fileID: 2100000, guid: 955c9b2cf483eba42903cdf4dedd4f1c, type: 2}
+    second: {fileID: 2100000, guid: d78b0dea7bca6e14b919b52c91366749, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -33,7 +33,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: pearl_white
-    second: {fileID: 2100000, guid: 86036e52a5d8c504894a371f8aafc246, type: 2}
+    second: {fileID: 2100000, guid: 41ad86f4192e24c44a2a009d5b58d830, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
